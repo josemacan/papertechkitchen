@@ -1,5 +1,13 @@
 baseURL = "https://josemacan.github.io/papertechkitchen"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "PaperTechKitchen"
 theme = "hugo-theme-console"
 publishDir = "docs"
+
+[languages]
+	[languages.en]
+		title = "PaperTechKitchen"
+		weight = 1
+	[languages.es]
+		title = "PaperTechKitchen"
+		weight = 2
