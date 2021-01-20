@@ -1,0 +1,5 @@
+baseURL = "https://josemacan.github.io/papertechkitchen"
+languageCode = "en-us"
+title = "PaperTechKitchen"
+theme = "hugo-notepadium"
+publishDir = "docs"
